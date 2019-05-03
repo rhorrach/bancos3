@@ -4,6 +4,7 @@ public class Banco {
 	
 	String nombre;
 	String identificador;
+	String apellidos;
 	
 	public Banco() {
 		
